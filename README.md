@@ -1,1 +1,1 @@
-### sal-learn equivalent 
+### sa-learn for rspam
